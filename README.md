@@ -1,4 +1,4 @@
-# SentimentalBot
+# SentimentalBot 🤗
 
 Customer Service or Experience Sentiment Analysis Bot
 
